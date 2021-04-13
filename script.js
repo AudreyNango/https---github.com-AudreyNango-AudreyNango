@@ -6,6 +6,7 @@
 
 
 // function reverseTab(tab) {
+// let res = []
 // for (let i = tab.lenght -1; i>-1; i--) {
 //     res.push
 // }
